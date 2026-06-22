@@ -1,0 +1,15 @@
+# Core web automation
+selenium==4.25.0
+webdriver-manager==4.0.2
+
+# HTML parsing
+beautifulsoup4==4.12.3
+
+# Data handling and export
+pandas==2.2.3
+
+# Optional for colored logs
+rich==13.9.4
+
+# For making HTTP requests
+requests==2.31.0

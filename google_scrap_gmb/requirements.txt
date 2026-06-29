@@ -1,0 +1,6 @@
+playwright==1.54.0
+aiofiles==24.1.0
+orjson==3.11.4
+tqdm==4.67.1
+loguru==0.7.3
+pandas==2.3.1

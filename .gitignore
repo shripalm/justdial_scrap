@@ -1,3 +1,6 @@
 __pycache__
 jd_venv/
 */*.csv
+*/*/output/*/*.csv
+*.log
+.DS_Store
